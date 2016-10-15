@@ -1,0 +1,16 @@
+{
+    "name": "edgemesh",
+    "version": "1.0.2",
+    "description": "EdgeMesh: Peer enhanced CDN",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edgemesh/edgemesh"
+    },
+    "author": "Randy Lebeau <rl@edgemesh.com>",
+    "license": "MPL",
+    "bugs": {
+        "url": "https://github.com/edgemesh/edgemesh/issues"
+    },
+    "homepage": "https://edgemesh.com"
+}
